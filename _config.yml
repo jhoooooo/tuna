@@ -7,4 +7,4 @@ relative_links:
 remote_theme: pages-themes/cayman@v0.2.0
 title: Cayman theme
 description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
