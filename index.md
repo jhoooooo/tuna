@@ -4,9 +4,9 @@ layout: default
 # Information
 
 - Links:
-  - https://discord.gg/e5DQ8yKnj6
-  - https://twitter.com/jhooo_o
-  - https://ko-fi.com/jhooo/shop
+  - [Discord](https://discord.gg/e5DQ8yKnj6)
+  - [Twitter](https://twitter.com/jhooo_o)
+  - [Ko-fi](https://ko-fi.com/jhooo/shop)
 
 # How to install Tuna for Windows
 
