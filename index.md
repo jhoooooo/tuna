@@ -80,5 +80,6 @@ We recommend that you use the Product in a testing or development environment be
 
 By using the Product, you also agree to indemnify and hold harmless the creators of the Product from and against any claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys' fees) arising out of or in connection with your use of the Product.
 
+---
 
 [^1]: Free version does not have this option.
