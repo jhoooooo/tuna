@@ -31,7 +31,6 @@ layout: default
 9.  Copy your authentication code and paste it into the authentication field.
 10. Click on `[Request token]`.
 11. Apply the changes. Tuna settings is complete.
- (edited)
 
 ---
 
@@ -41,7 +40,7 @@ layout: default
 2.  Extract the downloaded ZIP file to a location of your choice.
 3.  Now you can add new browser source on OBS.
    `[Sources > Browser > Create New > Name it > Select local file > Browse the location you extracted the zip earlier >
-    choose Tuna_Spotify_widget_1.0_public.html > Set the width to "274" and height to "64" > ok.]`
+    choose the html file > Set the width according to the obs_size.txt file > ok.]`
 4.  You won't see the widget if no song is playing.
 5.  To setup the widget visual, go the location you extracted the zip, open the html file on your text editor such as notepad or [notepad++](https://notepad-plus-plus.org/downloads/).
 6.  Scroll down and find `User Config` section[^1].
@@ -64,8 +63,9 @@ layout: default
 
 7.  You can change stuffs here and there is some explanation on what it does along side each settings.
 8.  Ensure settings such as `tuna_server_port` & `tuna_refresh_rate` are the same as your tuna setting on OBS.
-9.  You can also directly change other code there including the css, html and javascript directly.
-10. If you need more help in general or to customize the widget, you can reach out at #help channel.
+9.  You can also directly change other code there including the css, html and javascript directly if you need more customization.
+10.  Don't forget to refresh the browser source on OBS if you made any changes to the html file.
+11. If you need more help in general or to customize the widget, you can reach out at #help channel on discord.
 
 # Terms
 
