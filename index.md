@@ -43,7 +43,7 @@ layout: default
     choose the html file > Set the width according to the obs_size.txt file > ok.]`
 4.  You won't see the widget if no song is playing.
 5.  To setup the widget visual, go the location you extracted the zip, open the html file on your text editor such as notepad or [notepad++](https://notepad-plus-plus.org/downloads/).
-6.  Scroll down and find `User Config` section[^1].
+6.  Scroll down and find `User Config` section. Free version does not have this option[^1].
 
 ```javascript
     //SECTION ---------------->>>> User Config <<<<----------------
